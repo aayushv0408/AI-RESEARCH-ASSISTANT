@@ -141,7 +141,7 @@ AI-Research-Assistant/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/divyeshmutha12/AI-Research-Assistant.git
+git clone https://github.com/aayushv0408/AI-Research-Assistant.git
 cd AI-Research-Assistant
 ```
 
